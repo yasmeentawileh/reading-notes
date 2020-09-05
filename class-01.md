@@ -45,6 +45,7 @@ elements that appear to continue on the same line as their neighbouring elements
 ## How to group text and elements in a block 
 1. ### div 
 the div  element allows you to group a set of elements together in one block-level box.For example, you might create a div element to contain all of the elements for the header of your site (the logo and the navigation), or you might create a div element to contain comments from visitors.
+
 2. ### span 
 The span element acts like an inline equivalent of the div element. It is used to either:
 1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
