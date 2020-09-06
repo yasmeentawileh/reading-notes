@@ -12,7 +12,7 @@ To create a paragraph, surround the words that make up the paragraph with an ope
 
 < strong > < / strong > to make text bold ex: <strong> strong </strong>
 
-4. ## subscript and superscript
+4.  ## subscript and superscript
 < sup > < / sup >  to make the text superscript ex : 4<sup>th</sup>
 
 < sub > < / sub > to make text subscript ex: H<sub>2</sub>O
@@ -134,14 +134,14 @@ less than or equal cheks if the number on the left is less than or equal the num
 in the left you will put opening bracket then write operand between brackets  then the comperasion operator then another operand between brackets then put the closing bracket.
  
  ![image](operator.png)
- 
+
 ### **Logical operator:**
 
 1. &&  logical *AND*
 
 if both expressions evaluate to true then the result will be true otherwise it will returan false
 
-2. | |  logical *OR* 
+2. ||  logical *OR* 
 
 if one of the expressions evaluate to true then the result will be true the only way to get false that all of the expressions evaluate to false
 
@@ -154,14 +154,21 @@ this reverses the state of an expression if it was false it will return it to tr
 # loops:
 loops are used to repeatedly run a block of code - until a certain condition is met.
 ## loops types:
+
 1. for loop 
+
 it is used to run code a specific number of times.
+
 2. while loop
+
 it is used if you don't know many times the code should be run.
+
 ## FOR loop syntax:
+
 click on [image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.slideshare.net%2FBaabtraMentoringPartner%2Floops-in-c%2F5&psig=AOvVaw3gS5Et72JL1b43BaI3XLFP&ust=1598540903173000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCn6IuVuesCFQAAAAAdAAAAABAD)
 
-## for while loop syntax:
+## While loop syntax:
+
 click on [image](https://web.engr.oregonstate.edu/~rookert/cs162/ecampus-video/CS161/template/chapter_5/chapter5_images/5_01.png)
  
 
