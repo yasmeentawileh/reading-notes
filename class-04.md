@@ -106,4 +106,33 @@ to create a function you give it a name and then write the statements needed to 
 Having a declared function  let you execute all of statements between it's curly braces with just one line of code. to call it you will write the function name followed by parentheses.
 
 
+# ** Pair Programming**
+ pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together. 
+
+ ## How does pair programming work?
+ pair programming commonly involves two roles: the Driver and the Navigator. *driver* handling the “mechanics” of coding,the *driver* manages the text editor, switching files, version control, and—of course writing—code. *The navigator* uses their words to guide the Driver but does not provide any direct input to the computer.
+
+ ## Why to use it?
+ 1. Greater efficiency
+
+ when two people focus on the same code base, it is easier to catch mistakes in the making
+
+ 2. Engaged collaboration
+
+When two programmers focus on the same code, the experience is more engaging and both programmers are more focused than if they were working alone
+
+3. Learning from fellow students
+
+Everyone has a different approach to problem solving; working with a teammate can expose developers to techniques they otherwise would not have thought of.
+
+4. Social skills
+
+it's helps you to getting good at finding the right words is a skill unto itself.
+
+5. Job interview readiness
+
+companies can get a better feel for how an applicant will fit into the team and their collaboration style.
+
+6. Work environment readiness
+
 
