@@ -143,7 +143,7 @@ Browsers tend to show links in blue with an underline by default, and they will 
  - link: This allows you to set styles for links that have not yet beenvisited. 
  - visited: This allows you to set styles for links that have been clicked on.  
 
- ## Effects that respond to users interacts:
+## Effects that respond to users interacts:
 **1. :hover**
  This is applied when a user hovers over an element with a pointing device such as a mouse.
 
