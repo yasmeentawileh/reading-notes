@@ -12,7 +12,7 @@ Read 04 | [HTML Links, CSS Layout, JS Functions](https://yasmeentawileh.github.i
 Read 05 |  [HTML Images; CSS Color & Text](https://yasmeentawileh.github.io/reading-notes/class-05)
 Read 06 |  [JS Object Literals; The DOM](https://yasmeentawileh.github.io/reading-notes/class-06)
 Read 07 |  HTML Tables; JS Constructor Functions
-Read 08 | More CSS Layout
+Read 08 | [More CSS Layout](https://yasmeentawileh.github.io/reading-notes/class-08)
 Raed 09 | Forms and Events
 Read 10 | JS Debugging
 Read 11 | Assorted Topics
