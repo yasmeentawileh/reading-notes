@@ -1,7 +1,9 @@
 # Storag in HTML
+
 HTML5 Storage is based on named key/value pairs. You store data based on a named key, then you can retrieve that data with the same key. The named key is a string. The data can be any type supported by JavaScript, including strings, Booleans, integers, or floats. However, the data is actually stored as a string. If you are storing and retrieving anything other than strings, you will need to use functions like parseInt() or parseFloat() to coerce your retrieved data into the expected JavaScript datatype.
 
 # How to check for HTML 5 storage
+
 function supports_html5_storage() {
 
   try {
